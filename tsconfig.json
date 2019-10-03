@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "es2015",
+        "module": "es2015",
+        "moduleResolution": "node",
+        "declaration": false,
+        "outDir": "lib",
+        "strict": false,
+        "allowJs": true,
+        "allowSyntheticDefaultImports": true,
+        "sourceMap": true,
+        "noResolve": false
+    },
+    "include": [
+        "./node_modules/ijmacd-game-engine/**/*"
+    ]
+}
